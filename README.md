@@ -1,6 +1,6 @@
 # Tic Tac Toe Multiplayer Game
 
-A real-time, multiplayer Tic Tac Toe game developed with **Flutter**, **Riverpod**, **Node.js**, and **MongoDB**. This project uses Flutter to build the UI capabilities with a Node.js backend to create multiplayer system.
+A real-time, multiplayer Tic Tac Toe game developed with **Flutter**, **Riverpod**, **Node.js**, and **MongoDB**. This project uses Flutter to build the UI  with a Node.js backend to create multiplayer system.
 
 ## Table of Contents
 
