@@ -118,4 +118,4 @@ Make sure the following keys are present in DebugProfile.entitlements and Releas
 
 ## Contributing
 
-We welcome contributions to improve the project!
+Any contributions to improve the project are welcome!
