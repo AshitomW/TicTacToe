@@ -43,7 +43,7 @@ To set up this project, you’ll need to install Flutter, Node.js, and MongoDB.
 
 ### Setting Up the Backend
 
-1. **Navigate to the server directory**:
+1. **Navigate to the gameserver directory**:
 
    ```bash
    cd gameserver
@@ -55,7 +55,7 @@ To set up this project, you’ll need to install Flutter, Node.js, and MongoDB.
    npm install
    ```
 
-3. **Configure environment variables**: Create a `.env` file in the `server` directory and add your configuration details:
+3. **Configure environment variables**: Create a `.env` file in the `gameserver` directory and add your configuration details:
 
    ```plaintext
    DB_HOST=your_mongodb_connection_string
